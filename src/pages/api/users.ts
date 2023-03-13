@@ -11,7 +11,7 @@ export default (req: NextRequest) => {
     data: [
       {
         id: 1,
-        name: 'Linder'
+        name: 'Flavio'
       },
       {
         id: 2,
